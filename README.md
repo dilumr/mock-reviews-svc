@@ -15,6 +15,10 @@ Intended for use learning REST clients, testing frameworks
     cd [project]/service
     docker-compose up --build
 
+## API Documentation
+
+The service self-describes the API. It can be browsed at [http://localhost:5000/api](http://localhost:5000/api)
+
 ## Acknowledgements
 
 The flask application skeleton's structure was heavily influences by Michał Karzyński's
